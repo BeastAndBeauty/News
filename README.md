@@ -1,5 +1,8 @@
 # News
 软件工程课作品-新闻App
+前端-Android(Android Studio)
+后端-Servlet(Eclipse)
+后台-Layui(Eclipes)
 ## App 界面
 ![](https://github.com/BeastAndBeauty/News/blob/master/images/1.png)
 ![](https://github.com/BeastAndBeauty/News/blob/master/images/8.png)
